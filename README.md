@@ -1,4 +1,4 @@
-## 🎉 ¡Bienvenido a **Chasap Base 1.2**! 🚀
+## 🎉 ¡Bienvenido a **Chasap PRO 1.2**! 🚀
 
 ¡Gracias por confiar en **Chasap**!  
 Estás utilizando la **versión PRO 1.2** de nuestra plataforma. 🎯
@@ -8,7 +8,7 @@ Todo lo que necesitas para empezar, en un solo lugar. 🔥
 
 ## 📣 Actualización Versión 1.2 Pro
 
-### 🔗 Integración de Nuevos Canales de Comunicación
+🔗 Integración de Nuevos Canales de Comunicación
 
 Ahora es posible agregar y administrar nuevos canales:
 
@@ -21,7 +21,7 @@ Ahora es posible agregar y administrar nuevos canales:
 - Mejora la velocidad de respuesta y la experiencia del cliente.
 - Simplifica la administración multicanal.
 
-### 📊 Nuevos Reportes de Atención
+📊 Nuevos Reportes de Atención
 
 Incorporamos módulos avanzados de reportes que permiten:
 
@@ -35,7 +35,7 @@ Incorporamos módulos avanzados de reportes que permiten:
 - Identifica áreas de mejora de forma rápida.
 - Mejora la calidad del servicio con datos concretos.
 
-### 🛠️ Mejoras Adicionales
+🛠️ Mejoras Adicionales
 
 - Optimización de la velocidad en la carga de chats activos.
 - Corrección de errores menores reportados en la versión anterior.
